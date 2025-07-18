@@ -13,7 +13,7 @@ day 1
 
 
 day 2
-<img width="809" height="794" alt="Screenshot 2025-07-16 at 12 36 41 PM" src="https://github.com/user-attachments/assets/3cf8eacc-d3fb-42a3-a6dc-42306f3c3f5d" />
+<img width="809" height="794" alt="Screenshot 2025-07-16 at 12 36 41 PM" src="https://github.com/user-attachments/assets/3cf8eacc-d3fb-42a3
 <img width="807" height="765" alt="Screenshot 2025-07-16 at 12 38 14 PM" src="https://github.com/user-attachments/assets/4f44512d-e580-44df-a282-8b1609124a93" />
 <img width="802" height="836" alt="Screenshot 2025-07-16 at 12 40 06 PM" src="https://github.com/user-attachments/assets/cca675c9-0723-4d7a-a437-e76d710e4e32" />
 <img width="803" height="637" alt="Screenshot 2025-07-16 at 12 46 25 PM" src="https://github.com/user-attachments/assets/e31fe636-1c40-4147-bcb3-69b719c62aaa" />
@@ -22,3 +22,6 @@ day 2
 <img width="792" height="804" alt="Screenshot 2025-07-16 at 3 49 34 PM" src="https://github.com/user-attachments/assets/698106e3-1526-46d7-9480-bc70f660439b" />
 <img width="798" height="828" alt="Screenshot 2025-07-16 at 4 48 55 PM" src="https://github.com/user-attachments/assets/4d4a0e9b-03ff-4140-99d9-e0b4a23a5cc0" />
 <img width="782" height="717" alt="Screenshot 2025-07-16 at 4 52 23 PM" src="https://github.com/user-attachments/assets/5a588b9f-fcca-41a3-b302-49e3da8de425" />
+<img width="804" height="807" alt="Screenshot 2025-07-17 at 8 09 03 AM" src="https://github.com/user-attachments/assets/2aa16463-ffda-46ed-995c-a89c79aa73c1" />
+<img width="800" height="583" alt="Screenshot 2025-07-17 at 8 10 31 AM" src="https://github.com/user-attachments/assets/98e17927-f5d1-4b9d-997c-eeee8239b9ff" />
+-a6dc-42306f3c3f5d" />
