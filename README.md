@@ -25,3 +25,10 @@ day 2
 <img width="804" height="807" alt="Screenshot 2025-07-17 at 8 09 03 AM" src="https://github.com/user-attachments/assets/2aa16463-ffda-46ed-995c-a89c79aa73c1" />
 <img width="800" height="583" alt="Screenshot 2025-07-17 at 8 10 31 AM" src="https://github.com/user-attachments/assets/98e17927-f5d1-4b9d-997c-eeee8239b9ff" />
 -a6dc-42306f3c3f5d" />
+
+
+DAY 3
+Running magic after floorplan
+<img width="798" height="839" alt="Screenshot 2025-07-20 at 10 17 06 AM" src="https://github.com/user-attachments/assets/ffa4d0f2-8b71-4b9d-bea2-491266a9cf6b" />
+Pins are equidistant
+<img width="794" height="826" alt="Screenshot 2025-07-20 at 10 17 44 AM" src="https://github.com/user-attachments/assets/471b7772-7903-4d81-8dfd-98f564f791d0" />
