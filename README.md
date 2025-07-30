@@ -1,4 +1,4 @@
-# openlane-ss
+# openlane-ss (day 1-3)
 day 1
 <img width="810" height="478" alt="Screenshot 2025-07-15 at 4 23 34 PM" src="https://github.com/user-attachments/assets/46068a77-8fcf-4734-b6fe-11d6a6c809a8" />
 <img width="800" height="808" alt="Screenshot 2025-07-15 at 8 58 43 PM" src="https://github.com/user-attachments/assets/86687ac2-484d-4bf6-b71a-6fd6f90219c0" />
